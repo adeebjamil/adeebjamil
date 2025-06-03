@@ -13,7 +13,11 @@
 
 <!-- GitHub Contribution Snake Animation -->
 <div align="center">
-  <img alt="github-snake" src="https://github.com/adeebjamil/adeebjamil/blob/output/dist/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeebjamil/adeebjamil/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeebjamil/adeebjamil/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/adeebjamil/adeebjamil/output/github-snake.svg">
+  </picture>
 </div>
 
 ![GitHub followers](https://img.shields.io/github/followers/adeebjamil?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/adeebjamil?style=for-the-badge&logo=g...)
