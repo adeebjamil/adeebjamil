@@ -11,9 +11,9 @@
 
 </div>
 
-<!-- GitHub Contribution Snake Animation (only one image, as GitHub does not support <picture> or color-scheme switching in markdown) -->
+<!-- GitHub Contribution Snake Animation -->
 <div align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/adeebjamil/adeebjamil/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/adeebjamil/adeebjamil/blob/output/dist/github-contribution-grid-snake.svg" />
 </div>
 
 ![GitHub followers](https://img.shields.io/github/followers/adeebjamil?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/adeebjamil?style=for-the-badge&logo=g...)
@@ -119,8 +119,6 @@ I'm a passionate developer focused on creating elegant and functional digital ex
 <div align="center">
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 </div>
-
-<!-- You cannot use <picture> or <source> tags in GitHub README.md for dark/light mode switching. Just use the default image. -->
 
 ### 😂 Random Dev Joke
 <div align="center">
