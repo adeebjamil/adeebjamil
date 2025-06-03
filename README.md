@@ -11,6 +11,14 @@
 
 </div>
 
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeebjamil/adeebjamil/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeebjamil/adeebjamil/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/adeebjamil/adeebjamil/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ![GitHub followers](https://img.shields.io/github/followers/adeebjamil?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/adeebjamil?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=adeebjamil&style=for-the-badge&logo=github" alt="" />
 <div align="center">
 <a href="https://github.com/adeebjamil/github-readme-activity-graph">
