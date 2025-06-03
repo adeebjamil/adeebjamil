@@ -114,6 +114,13 @@ I'm a passionate developer focused on creating elegant and functional digital ex
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 </div>
 
+<!-- Real-time GitHub contribution snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeebjamil/adeebjamil/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeebjamil/adeebjamil/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adeebjamil/adeebjamil/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ### 😂 Random Dev Joke
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
@@ -128,3 +135,5 @@ I'm a passionate developer focused on creating elegant and functional digital ex
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 <h3>Show some ❤️ by starring some of my repositories!</h3>
 </div>
+
+
